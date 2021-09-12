@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sroyals
 - 👀 I’m interested in coding,learning new things
-- 🌱 I’m currently learning India
-- 💞️ I’m looking to collaborate on anyone who is ready to share there knowlegde
+- 🌱 I’m currently leaving in India
+- 💞️ I’m looking to collaborate with anyone who is ready to share there knowlegde
 I would like to learn,share and explore the world of coding together
 <!---
 Sroyals/Sroyals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
