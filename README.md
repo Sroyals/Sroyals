@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sroyals
 - 👀 I’m interested in coding,learning new things
-- 🌱 I’m currently leaving in India
+- 🌱 I’m currently living in India
 - 💞️ I’m looking to collaborate with anyone who is ready to share there knowlegde
 I would like to learn,share and explore the world of coding together
 <!---
